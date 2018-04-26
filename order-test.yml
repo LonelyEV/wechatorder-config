@@ -22,5 +22,5 @@ server:
 env:
   test001
 orderconfig:
-  key: 300
+  key: 400
   val: xxx
