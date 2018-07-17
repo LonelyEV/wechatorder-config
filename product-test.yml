@@ -14,7 +14,7 @@ spring:
     username: guest
     password: guest
   redis:
-    host: localhost
+    host: 192.168.21.244
     port: 6379
 eureka:
   client:
